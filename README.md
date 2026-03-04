@@ -2,7 +2,8 @@
 
 TenisCoaching es una solución integral diseñada para optimizar la interacción entre entrenadores de tenis y sus alumnos. La plataforma permite la gestión de clases, seguimiento del progreso técnico y coordinación de calendarios en tiempo real.
 
-[🔗 Ver Demo en Vivo]((https://tenniscoachingapp.com/))
+[🔗 Ver Demo en Vivo] 
+(https://tenniscoachingapp.com/)
 
 ---
 
