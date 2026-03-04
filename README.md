@@ -2,7 +2,7 @@
 
 TenisCoaching es una solución integral diseñada para optimizar la interacción entre entrenadores de tenis y sus alumnos. La plataforma permite la gestión de clases, seguimiento del progreso técnico y coordinación de calendarios en tiempo real.
 
-[🔗 Ver Demo en Vivo](TU_LINK_AQUI)
+[🔗 Ver Demo en Vivo]((https://tenniscoachingapp.com/))
 
 ---
 
@@ -21,12 +21,7 @@ Funcionalidades de Dashboard: Desarrollé el panel de control administrativo, pe
 Resolución de Problemas (Troubleshooting): Actué como soporte técnico avanzado para el desarrollador principal, resolviendo bloqueos de lógica y bugs complejos en el sistema.
 
 
-## 📸 Vista Previa
-![Dashboard de TenisCoaching](URL_DE_TU_IMAGEN)
 
-## 🛠️ Instalación y Configuración
-Si deseas ejecutar este proyecto localmente:
 
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/teniscoaching.git](https://github.com/tu-usuario/teniscoaching.git)
+
+
